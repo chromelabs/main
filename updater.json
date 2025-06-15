@@ -4,8 +4,8 @@
   "blender_version": [4, 4, 0],
 
   "force": false,
-  "skippable": true,
-  "lock": true,
+  "ignore": true,
+  "lock": false,
 
   "download_url": "https://yourdomain.com/downloads/glare-4.0.0.zip"
 }
