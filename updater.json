@@ -1,13 +1,11 @@
 {
-  "addon_name": "Glare",
+  "addon_name": "glare",
   "addon_version": [4, 0, 0],
   "blender_version": [4, 4, 0],
+
+  "force": false,
   "skippable": true,
-  "download_url": "https://yourdomain.com/downloads/glare-4.0.0.zip",
-  "changelog": [
-    "Improved bloom and lens flare quality",
-    "Added real-time viewport preview support",
-    "Fixed compatibility issues with Blender 4.4",
-    "Minor UI enhancements"
-  ]
+  "lock": true,
+
+  "download_url": "https://yourdomain.com/downloads/glare-4.0.0.zip"
 }
